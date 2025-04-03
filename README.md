@@ -1,27 +1,36 @@
 # 👋 Hi there, I'm Aaryan Shah
 
-🎓 Currently pursuing my **Master of Science in Applied Data Science** at the **University of Southern California (USC)**, I’m passionate about building data-driven solutions that create real-world impact.
+🎓 Master’s Student in Applied Data Science @ USC  
+💡 I design intelligent systems that scale — from data pipelines to machine learning to analytics
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a data-driven engineer who thrives at the intersection of **big data engineering**, **analytics**, and **software development**. I enjoy building **scalable data pipelines**, developing **machine learning applications**, and working with **large language models (LLMs)** to create real-world impact. With a solid foundation in **AI/ML** and strong technical skills, I aim to bridge the gap between raw data and business-ready insights.
+
+Currently pursuing my Master’s at USC, I’m passionate about designing systems that are not only intelligent but also robust, efficient, and production-ready.
 
 ---
 
 ## 💼 Experience
 
 **AI/Data Engineer** – USC Marshall School of Business  
-*Dec 2023 – Present*  
-- Developed an NLP pipeline using RoBERTa-based QA models, improving document analysis efficiency by 30%.  
-- Boosted text classification & data extraction with LLMs + GPU/CPU acceleration (Torch MPS), cutting processing time by 40%.  
-- Built an automated pipeline analyzing 10K+ documents with Hugging Face Transformers & BERTopic, increasing retrieval accuracy by 25%.  
-- Leveraged Python, Pandas, PyTorch for multi-threaded processing, enhancing pipeline efficiency by 15%.
+📍 *Los Angeles, CA | Dec 2023 – Present*  
+- Built an NLP pipeline with RoBERTa-based QA models, boosting document analysis efficiency by 30%  
+- Used GPU acceleration (Torch MPS/CPU fallback) to cut LLM-based processing time by 40%  
+- Automated analysis for 10K+ documents using Hugging Face + BERTopic, improving retrieval accuracy by 25%  
+- Applied multithreading with Python, Pandas & PyTorch for 15% more efficient workflows
 
-**Data Science Researcher** – D.J. Sanghvi College of Engineering  
-*Jan 2023 – Jun 2023*  
-- Designed a predictive model for fetal health from 1000+ cases, achieving 94% accuracy with Random Forest, SVM, and Ensemble classifiers.  
-- Applied SMOTE and ADASYN to rebalance data, improving classification performance for rare cases.
+**Data Science Researcher** – DJ Sanghvi College of Engineering  
+📍 *Mumbai, India | Jan 2023 – Jun 2023*  
+- Built predictive models for fetal health from 1000+ medical cases, reaching 94% accuracy  
+- Balanced skewed data using SMOTE & ADASYN to enhance classifier performance  
 
-**ML Intern** – Gustovalley Technovations  
-*Feb 2022 – May 2022*  
-- Deployed ML models on Azure ML with AKS, cutting insight delivery time by 30%.  
-- Created 25+ interactive PowerBI dashboards, supporting strategic decision-making.
+**Machine Learning Intern** – Gustovalley Technovations  
+📍 *Remote | Feb 2022 – May 2022*  
+- Deployed ML models on Azure ML with AKS, reducing delivery time by 30%  
+- Created 25+ interactive PowerBI dashboards for executive decision-making  
 
 ---
 
@@ -29,39 +38,57 @@
 
 ### 🧠 Alternate History Narrative Generator  
 *Python, PyTorch, GPT-2, Hugging Face, Flask*  
-> Trained GPT-2 to generate alternate history timelines with realistic socio-political outcomes.  
-> Improved character coherence by 40% and achieved 150 tokens/sec inference speed with a perplexity of 15.
+- Generated realistic alternate history with GPT-2 (200M params), 150 tokens/sec inference  
+- Enhanced narrative coherence by 40% using custom embeddings
 
 ### ⭐ YelpRec: Scalable Hybrid Recommendation System  
-*Python, PySpark, Spark RDD, XGBoost, CatBoost*  
-> Built a hybrid recommender system processing 1M+ reviews, achieving an RMSE of 0.9798.
+*PySpark, Spark RDD, XGBoost, CatBoost*  
+- Processed 1M+ reviews with Spark, reduced latency by 30%, and reached RMSE of 0.9798  
 
 ### 🪐 Advanced Martian Frost Detection  
-*Python, TensorFlow, Keras*  
-> Custom CNN trained on HiRISE data with 92% accuracy; compared models like VGG16, ResNet50, and EfficientNetB0.
+*TensorFlow, Keras*  
+- Trained CNNs on HiRISE data, achieving 92% training / 82% validation accuracy  
+- Benchmarked models like VGG16, ResNet50, EfficientNetB0  
 
 ### 📊 Dynamic Sales Forecasting Dashboard  
-*PowerBI, Excel, DAX*  
-> Built a dashboard tracking $1.6M in sales and forecasting 10.6K units — streamlining decision-making for leadership.
+*Power BI, Excel, DAX*  
+- Built a dashboard for $1.6M in sales & 22K orders; forecasted 10.6K units for planning  
+- Delivered actionable insights via 10+ custom visualizations  
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Skills & Tools
 
-**Languages**: Python, R, C++, SQL  
-**Libraries**: PyTorch, TensorFlow, Scikit-Learn, NLTK, SpaCy, Hugging Face  
-**Tools**: PowerBI, Tableau, Airflow, Git, DBT  
-**Cloud Platforms**: AWS (EC2, S3, Athena, Lambda), GCP (BigQuery, Cloud Storage)  
-**Others**: Apache Kafka, Spark RDD, MongoDB, PostgreSQL
+**Languages & Programming:**  
+Python, R, C++, SQL, Bash, Java, HTML/CSS
+
+**Data & Big Data:**  
+PySpark, Spark RDD, Hadoop, Hive, Kafka, Airflow, Redis, Firebase, PostgreSQL, MySQL, MongoDB
+
+**Machine Learning & AI:**  
+Scikit-learn, XGBoost, CatBoost, TensorFlow, Keras, PyTorch, Transformers, Hugging Face, LangChain, OpenAI APIs
+
+**Natural Language Processing:**  
+SpaCy, NLTK, Gensim, BERTopic, Sentence Transformers
+
+**Analytics & BI Tools:**  
+Power BI, Tableau, Excel, DAX
+
+**Cloud Platforms:**  
+AWS (EC2, S3, Lambda, Glue, Athena, EventBridge, Bedrock),  
+GCP (BigQuery, Cloud Storage, Vertex AI)
+
+**Dev Tools & Frameworks:**  
+Git, Docker, Flask, Selenium, BeautifulSoup, DBT, Jira, VSCode
 
 ---
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/aaryanshah27/)  
-- 💻 [GitHub](https://github.com/Aaryan04)  
-- 📧 shah.aar27@gmail.com
+- 💻 GitHub: [github.com/Aaryan04](https://github.com/Aaryan04)  
+- 💼 LinkedIn: [linkedin.com/in/aaryanshah27](https://www.linkedin.com/in/aaryanshah27)  
+- 📧 Email: shah.aar27@gmail.com
 
 ---
 
-🌱 Always learning, always building. Let’s collaborate on something awesome!
+🌱 Always learning. Always building. Open to collaboration!
