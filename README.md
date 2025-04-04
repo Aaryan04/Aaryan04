@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aaryan Shah
 
-🎓 Master’s Student in Applied Data Science @ USC  
+🎓 Master’s Student in Applied Data Science @ USC (graduating in May 2025)
 💡 I design intelligent systems that scale — from data pipelines to machine learning to analytics
 
 ---
